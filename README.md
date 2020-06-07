@@ -2,10 +2,10 @@ Natural Language Adversarial Sample Generation
 ---
 ### Model Architecture
 
-Overall Model Architecture : cVAE + GAN
++ Overall Model Architecture : cVAE + GAN
 ![模型架构](./model_images/model_overview.png)
 
-Generator : we implemented two generators respectively with LSTM and GRU (folders: LSTM_VAE and GRU_VAE).
++ Generator : we implemented two generators respectively with LSTM and GRU (folders: LSTM_VAE and GRU_VAE).
 ![生成器](./model_images/generator.png)
 
 ### Model Results
